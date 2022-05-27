@@ -1,2 +1,2 @@
 # Juego-de-Apuestas-Python
-Juego de Adivinat el Nunero en Python
+Juego de Adivinar el Nunero en Python
